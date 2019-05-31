@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://naif.soy"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
@@ -61,7 +61,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "github.com/Nayifff/"
+
+  [[params.social]]
+    name = "email"
+    url = "naif.a@columbia.edu"
 
 [menu]
 

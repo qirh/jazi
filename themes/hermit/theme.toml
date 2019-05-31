@@ -8,8 +8,7 @@ features = [
   "single column",
   "featured image",
   "social icons",
-  "google analytics",
-  "disqus"
+  "google analytics"
 ]
 min_version = 0.43
 
