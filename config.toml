@@ -6,6 +6,7 @@ theme = "hermit"
 enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
+publishDir = "docs"
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 
 
