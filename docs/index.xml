@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naif Alzahri</title>
+    <link>https://naif.soy/</link>
+    <description>Recent content on Naif Alzahri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://naif.soy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
