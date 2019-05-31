@@ -1,9 +1,10 @@
-# Blog [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://gitlab.com/qirh/blog/raw/master/LICENSE)
-[Blog](http://blog.alghusson.com)
+# Naif's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/naif/master/LICENSE)
+[naif.soy](https://naif.soy)
 ## Copyright Information
   * Powered by Github pages
-  * Forked from [Hugo](https://gitlab.com/pages/hugo)
-  * Repo icon: Icon made by madebyoliver from [flaticon](www.flaticon.com)
-  * Blog icon: Icon made using [ionos](ionos.com/tools/favicon-generator)
+  * icon: Icon by [icons8](https://icons8.com) and converted with [icoconvert](https://icoconvert.com)
 
-This blog was migrated from [Github](https://github.com/qirh/qirh.github.io). The migration process was simple and quick, I love the Gitlab UI.
+
+
+
+<img src="https://pics.me.me/he-must-be-spanish-soy-milk-milk-il-41060910.png"/>
