@@ -61,20 +61,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "github"
-    url = "github.com/Nayifff/"
+    url = "https://github.com/Nayifff"
 
   [[params.social]]
     name = "email"
     url = "naif.a@columbia.edu"
-
-[menu]
-
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
-
-  [[menu.main]]
-    name = "About"
-    url = "about-hugo/"
-    weight = 20
