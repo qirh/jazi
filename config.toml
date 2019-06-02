@@ -2,7 +2,7 @@ baseURL = "https://naif.soy"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Naif -"
-theme = "hermit"
+theme = "stip"
 enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -10,8 +10,9 @@ publishDir = "docs"
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 
 
-[author]
-  name = "Naif"
+[Author]
+  name = "Jazi"
+  bio = "Professional Artist"
 
 [blackfriday]
   hrefTargetBlank = true
