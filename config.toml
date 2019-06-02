@@ -1,7 +1,7 @@
 baseURL = "https://naif.soy"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Naif Alzahri"
+title = "Naif -"
 theme = "hermit"
 enableGitInfo = true
 pygmentsCodefences  = true
