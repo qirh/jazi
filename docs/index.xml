@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Naif -</title>
-    <link>https://naif.soy/</link>
-    <description>Recent content on Naif -</description>
+    <title>jojo</title>
+    <link>https://qirh.github.io/jazi/</link>
+    <description>Recent content on jojo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://naif.soy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qirh.github.io/jazi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://naif.soy/readme/</link>
+      <link>https://qirh.github.io/jazi/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://naif.soy/readme/</guid>
+      <guid>https://qirh.github.io/jazi/readme/</guid>
       <description>Hugo won&amp;rsquo;t build without a content folder</description>
     </item>
     
