@@ -1,4 +1,4 @@
-# Jojo's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/naif/master/LICENSE)
+# Jojo's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/jazi/master/LICENSE)
 
 [qirh.github.io/jazi](https://qirh.github.io/jazi)
 
