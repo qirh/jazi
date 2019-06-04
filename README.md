@@ -9,3 +9,4 @@ Github doesn't natively support Hugo, but you can point Github to a custom folde
 ## Copyright Information
   * Powered by Github pages & [Hugo](https://github.com/gohugoio/hugo)
   * [Stip Theme ](https://themes.gohugo.io/stip-hugo/)
+  * Backgroud by [snapwire](pexels.com/@snapwire)
